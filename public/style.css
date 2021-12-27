@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2rem;
+}
+
+ul{
+    display: flex;
+} 
+
+li{
+    list-style-type: none;
+}
+
+li a {
+    margin: 0 .5rem;
+}
+
+a{
+    text-decoration: none;
+    background-color: lightgray;
+    color: black;
+    padding: 0.5rem 1.2rem;
+    border-radius: .5rem;
+}
+
+a:hover, .active{
+    background-color: gray;
+}
+
+h2{
+    text-align: center;
+    margin: 4rem;
+    font-size: 2rem;
+}
