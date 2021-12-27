@@ -2,7 +2,7 @@
 
 這是一個基本的網路應用程式，是透過自己的筆記，從0到1寫出來的網站，讓我能更明確的掌握express、handlebars 的應用。
 
-# 安裝
+## 安裝
 
 1.開啟終端機(Terminal)，在自行設定好的資料夾，`clone`此專案機至本機電腦:
 
@@ -26,7 +26,7 @@ node app.js
 
 
 
-# 使用工具
+## 使用工具
 
 - [Visual Studio Code](https://visualstudio.microsoft.com/zh-hant/) - 開發環境
 - [Express](https://www.npmjs.com/package/express) - 應用程式架構
